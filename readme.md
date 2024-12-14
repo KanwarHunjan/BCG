@@ -140,14 +140,7 @@ BCG
 │  ├─ BCG_Case_Study_CarCrash_Updated_Questions.docx
 │  └─ Data Dictionary.xlsx
 ├─ data
-│  ├─ Charges_use.csv
-│  ├─ Damages_use.csv
-│  ├─ Endorse_use.csv
-│  ├─ Primary_Person_use.csv
-│  ├─ Restrict_use.csv
-│  ├─ Units_use.csv
-│  └─ backup
-│      └─ data.zip   
+│  └─ data.zip  
 ├─ config.json
 └─ readme.md
 ```
